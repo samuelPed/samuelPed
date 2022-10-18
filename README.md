@@ -19,7 +19,8 @@
   - I want be the best programming mobile to want i can be.
   - And a good person for life. 
   
-  - References it SVG -> https://devicon.dev/
+  ### References
+  - SVG -> https://devicon.dev/
 
   
 
