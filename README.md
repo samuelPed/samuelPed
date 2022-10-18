@@ -10,12 +10,14 @@
   - I’m currently learning Database Cloud Firebase<br>  
   
   ### What I like? 
-  - Pait my home in my free time
+  - Paint my home in my free time
   - Get good time with my family 
   - Watch Big Bang the Theory
   
-  ### What I want do? 
-  - I want be the best programming mobile to want i can be. And a good person for my life. 
+  ### What I want do/be? 
+  - I would like to perticipate a team of developers hard for me learn.
+  - I want be the best programming mobile to want i can be.
+  - And a good person for life. 
 
   
 
