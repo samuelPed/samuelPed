@@ -1,6 +1,6 @@
 ## Hello, I'm Samuel 👋
 
-### What I'm Styding?
+### What I'm Studying?
 <div style="display: inline_block"><br>
   <img align="center" alt="samuelPed-As" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   - I’m currently learning Android (Kotlin)<br>
